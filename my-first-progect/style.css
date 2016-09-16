@@ -1,0 +1,19 @@
+.wrap {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: cadetblue;
+    
+}
+.wrap h1 {
+    display: block;
+    margin: auto;
+    width: 300px;
+    background-color: aqua;
+    color: black;
+}
+.wrap p {
+    color: crimson;
+    font-size: 20px;
+    background-color: burlywood;
+}
